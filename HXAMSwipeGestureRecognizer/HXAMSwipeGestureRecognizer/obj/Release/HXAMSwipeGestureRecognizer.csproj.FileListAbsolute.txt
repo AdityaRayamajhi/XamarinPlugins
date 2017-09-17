@@ -1,0 +1,14 @@
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/HXAMSwipeGestureRecognizer.dll
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Core.dll
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Platform.dll
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Core.pdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Core.dll.mdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Core.xml
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Platform.pdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Platform.dll.mdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Xaml.pdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Xaml.dll.mdb
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/obj/Release/HXAMSwipeGestureRecognizer.csproj.CoreCompileInputs.cache
+/Users/adi/Documents/MyWork/XamarinPlugins/XamarinPlugins/HXAMSwipeGestureRecognizer/HXAMSwipeGestureRecognizer/obj/Release/HXAMSwipeGestureRecognizer.dll
